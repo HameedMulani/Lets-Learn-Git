@@ -13,7 +13,7 @@ public class swap {
         temp = a;
         a = b;  
         b = temp;
-        System.out.println("This is Swaped "+a + " " + b);
+        System.out.println("Swaped Number "+a + " " + b);
     }
     
 }
